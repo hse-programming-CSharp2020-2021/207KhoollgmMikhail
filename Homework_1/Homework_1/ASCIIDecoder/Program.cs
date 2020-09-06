@@ -11,9 +11,12 @@ namespace ASCIIDecoder
             int a;
 
             inpStr = Console.ReadLine();
-            int.TryParse(inpStr, out a);
-            word = (char)a;
-            Console.WriteLine(word);
+            if (int.TryParse(inpStr, out a))
+            {
+                word = (char)a;
+                Console.WriteLine(word);
+            }
+            else Console.WriteLine("Неверное значение");
         }
     }
 }

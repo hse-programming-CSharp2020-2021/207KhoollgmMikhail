@@ -11,11 +11,19 @@ namespace Task04
 
             Console.WriteLine("Введите Напряжение (U): ");
             inpStr = Console.ReadLine();
-            double.TryParse(inpStr, out U);
+            if (!double.TryParse(inpStr, out U))
+            {
+                Console.WriteLine("Неверное значение");
+                return;
+            }
 
             Console.WriteLine("Введите Сопротивление (R): ");
             inpStr = Console.ReadLine();
-            double.TryParse(inpStr, out R);
+            if (!double.TryParse(inpStr, out R) || R == 0)
+            {
+                Console.WriteLine("Неверное значение");
+                return;
+            }
 
             Console.WriteLine("Сила тока (I) = " + U/R);
             Console.WriteLine("Потребляемая мощность (P) = " + U*U / R);
