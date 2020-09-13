@@ -16,6 +16,7 @@ namespace Task11
             Console.WriteLine("-" + inpStr1 + "-");
             Console.WriteLine("-" + inpStr2 + "-");
             Console.WriteLine("-" + inpStr3 + "-");
+            //
         }
     }
 }
