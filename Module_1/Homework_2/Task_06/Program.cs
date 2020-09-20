@@ -7,7 +7,7 @@ namespace Task_06
     {
         public static void PrintValue(double value)
         {
-            Console.WriteLine(string.Format(new CultureInfo("en-US"), "{0:c3}", value / 75, 46));
+            Console.WriteLine(string.Format(new CultureInfo("en-US"), "{0:c3}", value / 75.46));
         }
 
         static void Main(string[] args)
