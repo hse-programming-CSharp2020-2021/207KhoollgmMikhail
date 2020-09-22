@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_01", "Task_01\Task_01.csproj", "{458D0B02-F50B-45BC-9410-3797ACC58E83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_2_01", "Task_01\Task_2_01.csproj", "{458D0B02-F50B-45BC-9410-3797ACC58E83}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_02", "Task_02\Task_02.csproj", "{AC92F7FF-86F9-415A-9933-3BA69802937E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_2_02", "Task_02\Task_2_02.csproj", "{AC92F7FF-86F9-415A-9933-3BA69802937E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_03", "Task_03\Task_03.csproj", "{54BB6871-8E5A-47CC-AF0F-6BD297C3A43A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_2_03", "Task_03\Task_2_03.csproj", "{54BB6871-8E5A-47CC-AF0F-6BD297C3A43A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_04", "Task_04\Task_04.csproj", "{399B9661-E73A-4B0C-920D-84EED6AF8481}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_2_04", "Task_04\Task_2_04.csproj", "{399B9661-E73A-4B0C-920D-84EED6AF8481}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_05", "Task_05\Task_05.csproj", "{7CC58D19-F873-4EB3-AC98-2D03C3F602D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_2_05", "Task_05\Task_2_05.csproj", "{7CC58D19-F873-4EB3-AC98-2D03C3F602D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_06", "Task_06\Task_06.csproj", "{B517C262-013B-441A-B822-6971C6609635}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_2_06", "Task_06\Task_2_06.csproj", "{B517C262-013B-441A-B822-6971C6609635}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_07", "Task_07\Task_07.csproj", "{14CE0009-DE36-450E-B4AD-94FCA8AF9AFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_2_07", "Task_07\Task_2_07.csproj", "{14CE0009-DE36-450E-B4AD-94FCA8AF9AFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_2_07", "Problem_2_07\Problem_2_07.csproj", "{AE7949E1-E8FF-4ADC-A3B3-884F241F617A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{14CE0009-DE36-450E-B4AD-94FCA8AF9AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14CE0009-DE36-450E-B4AD-94FCA8AF9AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14CE0009-DE36-450E-B4AD-94FCA8AF9AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE7949E1-E8FF-4ADC-A3B3-884F241F617A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7949E1-E8FF-4ADC-A3B3-884F241F617A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7949E1-E8FF-4ADC-A3B3-884F241F617A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7949E1-E8FF-4ADC-A3B3-884F241F617A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
