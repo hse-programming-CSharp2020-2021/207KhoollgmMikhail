@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_04", "WindowsFormsApp1\Task_04.csproj", "{0AF39AFF-9D96-4648-A155-D7431BA3F6A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_05", "Task_05\Task_05.csproj", "{FC13E1AD-BCC6-496D-9EFE-A0C9ABAABA39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_09", "Task_09\Task_09.csproj", "{249F3008-922B-466A-B637-10350B9C4A53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AF39AFF-9D96-4648-A155-D7431BA3F6A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF39AFF-9D96-4648-A155-D7431BA3F6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF39AFF-9D96-4648-A155-D7431BA3F6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF39AFF-9D96-4648-A155-D7431BA3F6A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC13E1AD-BCC6-496D-9EFE-A0C9ABAABA39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC13E1AD-BCC6-496D-9EFE-A0C9ABAABA39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC13E1AD-BCC6-496D-9EFE-A0C9ABAABA39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC13E1AD-BCC6-496D-9EFE-A0C9ABAABA39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{249F3008-922B-466A-B637-10350B9C4A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249F3008-922B-466A-B637-10350B9C4A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249F3008-922B-466A-B637-10350B9C4A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249F3008-922B-466A-B637-10350B9C4A53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32F3EB9B-C3BE-4449-89B5-E0512C36C5F2}
+	EndGlobalSection
+EndGlobal
