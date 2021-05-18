@@ -9,10 +9,9 @@ namespace Task_3
         {
             var randColl = new RandomCollection(int.Parse(Console.ReadLine()));
 
-            foreach(var rand in randColl)
-            {
+            foreach (var rand in randColl)
                 Console.WriteLine(rand);
-            }
+
         }
     }
 
@@ -54,5 +53,5 @@ namespace Task_3
         }
     }
 
-    
+
 }
